@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613177945026",
+    "project_id": "measure-app-524b5",
+    "storage_bucket": "measure-app-524b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613177945026:android:4c1129cab5c99249ffc45b",
+        "android_client_info": {
+          "package_name": "com.example.measure_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSttsoDadrojo3lfpBQ64JTzymNRSYP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

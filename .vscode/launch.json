@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "measure_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "measure_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "measure_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "global",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "global (profile mode)",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "global (release mode)",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "report_measure",
+            "cwd": "packages\\report_measure",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "report_measure (profile mode)",
+            "cwd": "packages\\report_measure",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "report_measure (release mode)",
+            "cwd": "packages\\report_measure",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
